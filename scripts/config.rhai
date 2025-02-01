@@ -1,5 +1,5 @@
 let titles_model = ["CLIP", "Vision Language", "Vision-Language"];
-let titles_method = ["Finetune", "Fine-tuning", "Multimodal", "Multi-modal", "Prompt", "Tuning", "Gate net", "MoE"];
+let titles_method = ["Finetune", "Fine-tuning", "Multimodal", "Multi-modal", "Prompt", "Tuning", "Gate net", "Mixture of Experts"];
 let titles =  titles_model + titles_method;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Kaiming"];
 
